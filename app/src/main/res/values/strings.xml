@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+
+    <string-array name="names">
+        <item>home</item>
+        <item>home</item>
+        <item>home</item>
+        <item>home</item>
+        <item>home</item>
+
+    </string-array>
+
+</resources>
